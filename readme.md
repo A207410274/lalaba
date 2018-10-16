@@ -2,16 +2,11 @@
 * intro.html
 
 ## week2
-* table.html
-* myclass.html
-
-## week3
+* 
 * [class.html](https://github.com/A207410274/lalaba/blob/master/w03/class.html "class.html")
+## week3
 * [div.html](https://github.com/A207410274/lalaba/blob/master/w03/div.html "div.html")
 * [tku60.html](https://github.com/A207410274/lalaba/blob/master/w03/tku60.html "tku60.html")
-* tku.60
-* div.html
-
 ## week4
 * [ttt.html](https://github.com/A207410274/lalaba/blob/master/w04/ttt.html "ttt.html")
 * [ttt.css](https://github.com/A207410274/lalaba/blob/master/w04/ttt.css "ttt.css")
@@ -25,5 +20,5 @@
 * [pet.html](https://github.com/A207410274/lalaba/blob/master/w5/css/pet.html "pet.html")
 * [pet.css](https://github.com/A207410274/lalaba/blob/master/w5/css/pet.css "pet.css")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3NjQ0MjQ0XX0=
+eyJoaXN0b3J5IjpbMTU2NDA0NzYzMF19
 -->
