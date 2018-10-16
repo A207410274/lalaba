@@ -1,8 +1,7 @@
-## wee1
-* intro.html
-
+## week1
+* [intro.html](https://github.com/A207410274/lalaba/blob/master/w01/intro.html "intro.html")
 ## week2
-* 
+* [table.html](https://github.com/A207410274/lalaba/blob/master/w02/table.html "table.html")
 * [class.html](https://github.com/A207410274/lalaba/blob/master/w03/class.html "class.html")
 ## week3
 * [div.html](https://github.com/A207410274/lalaba/blob/master/w03/div.html "div.html")
@@ -20,5 +19,5 @@
 * [pet.html](https://github.com/A207410274/lalaba/blob/master/w5/css/pet.html "pet.html")
 * [pet.css](https://github.com/A207410274/lalaba/blob/master/w5/css/pet.css "pet.css")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDA0NzYzMF19
+eyJoaXN0b3J5IjpbMTUyMjAwMDExM119
 -->
