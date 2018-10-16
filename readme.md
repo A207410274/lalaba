@@ -15,6 +15,9 @@
 
 ## week5
 * [imagegallery.html](https://github.com/A207410274/lalaba/blob/master/w05/imagegallery/imagegallery.html "imagegallery.html")
+* [imagegallery.css](https://github.com/A207410274/lalaba/blob/master/w05/imagegallery/imagegallery.css "imagegallery.css")
+* [pet.html](https://github.com/A207410274/lalaba/blob/master/w5/css/pet.html "pet.html")
+* [pet.css](https://github.com/A207410274/lalaba/blob/master/w5/css/pet.css "pet.css")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1Njg5MTQ4MV19
+eyJoaXN0b3J5IjpbMTU3OTM5MTczN119
 -->
