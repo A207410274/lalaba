@@ -1,4 +1,4 @@
-body {
+#petcontainer {
     font-family: Arial, Helvetica, sans-serif, 微軟正黑體;
     background: url(../images/bg.jpg);
 }
@@ -39,14 +39,14 @@ footer {
     text-align: center;
     line-height: 50px;
 }
-nav {
+#petcontainer nav {
     margin-top: 170px;
 }
-nav ul {
+#petcontainernav ul {
     padding: 10px;
     list-style: none;
 }
-nav ul li a {
+#petcontainernav ul li a {
     display: block;
     width: 150px;
     height: 42;
@@ -54,7 +54,7 @@ nav ul li a {
     text-indent: 50px;
     line-height: 35px;
 }
-nav ul a:hover {
+#petcontainernav ul a:hover {
     background-image: url(../images/btn_hover.png);
     color: white;
 }
@@ -69,7 +69,7 @@ fieldset {
 fieldset legend {
     text-align: center
 }
-.consection {
+#.consection {
     width: 400px;
     margin: 0px auto;
     padding: 20px
