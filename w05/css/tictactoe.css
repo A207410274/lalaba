@@ -1,0 +1,46 @@
+body{
+    background: #1c1b1c;
+}
+#container{
+    width: 350px;
+    margin: 40px auto;
+    background: gray;
+}
+h1{
+    text-align: center;
+    color: #FFF;
+}
+#board li{
+    width: 70px;
+    height: 70px;
+    font-size: 70px;
+    list-style: none;
+    background: #333;
+    float: left;
+    margin: 10px;
+    text-align: center;
+    color: #CCC;
+    line-height: 70px;
+}
+.clearfix{
+    clear: both;
+}
+footer{
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+}
+#reset{
+    width:70%;
+    background: #444;
+    color:#FFF;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 5px;
+}
+.o{
+    color: green !important;
+}
+.x{
+    color: red !important;
+}
